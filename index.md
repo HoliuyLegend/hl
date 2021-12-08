@@ -19,7 +19,7 @@
     <h3><strong>He couldn't kill Akazaka :( </strong> </h3>
     <hr>
         <ul> 
-            <li>He dies donig what he loved</li> 
+            <li>He died doing what he loved</li> 
         </ul>
  <a href="Hobbies.html"> My hobbies :3</a>
  <br>

@@ -68,7 +68,7 @@
                 <td>⭐⭐⭐⭐⭐ </td>
             </tr>
         </table>    
-        <td>
+           <td>
             <td>
                 <table>
                     <tr>

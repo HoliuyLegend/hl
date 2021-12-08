@@ -16,10 +16,10 @@
     
     <p> Hola mundo,He's Rengoku, One of the best pilar, because he does not wanna desappoint his  <a href="https://kimetsu-no-yaiba.fandom.com/wiki/Shinjuro_Rengoku#:~:text=Shinjuro%20Rengoku%20(%20%E7%85%89%20%E3%82%8C%E3%82%93%20%E7%8D%84,the%20husband%20of%20Ruka%20Rengoku."> father</a> </p>
     <hr>
-    <h3><strong>He couldn't kill Akazaka :() </strong> </h3>
+    <h3><strong>He couldn't kill Akazaka :( </strong> </h3>
     <hr>
         <ul> 
-            <li>He dies donig what he loved</li> 
+            <li>He died doing what he loved</li> 
         </ul>
  <a href="Hobbies.html"> My hobbies :3</a>
  <br>

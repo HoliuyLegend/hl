@@ -63,6 +63,7 @@
                 <td>⭐⭐⭐⭐ </td>  
             </tr>
             <tr>
+                <br>
                 <td>Lazyness  </td>
                 <td>⭐⭐⭐⭐⭐ </td>
             </tr>
@@ -87,14 +88,7 @@
                     </tr>
                 </table>
         </td>
-        </tr>
-        
-     
-
+        </tr> 
      </tr>
-     
-     <tbody>
-       
-    </tbody>
  </table>
 
